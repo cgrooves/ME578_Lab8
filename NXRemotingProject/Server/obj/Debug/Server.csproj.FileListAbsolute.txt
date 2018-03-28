@@ -22,3 +22,15 @@ C:\Users\Josh Coburn\Documents\Visual Studio 2015\Projects\NXRemotingProject\Ser
 C:\Users\Josh Coburn\Documents\Visual Studio 2015\Projects\NXRemotingProject\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
 C:\Users\Josh Coburn\Documents\Visual Studio 2015\Projects\NXRemotingProject\Server\obj\Debug\Server.dll
 C:\Users\Josh Coburn\Documents\Visual Studio 2015\Projects\NXRemotingProject\Server\obj\Debug\Server.pdb
+J:\SystemsEng\ME578_Lab8\NXRemotingProject\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+J:\SystemsEng\ME578_Lab8\NXRemotingProject\Server\obj\Debug\Server.dll
+J:\SystemsEng\ME578_Lab8\NXRemotingProject\Server\obj\Debug\Server.pdb
+J:\SystemsEng\ME578_Lab8\NXRemotingProject\Server\bin\Debug\Server.dll
+J:\SystemsEng\ME578_Lab8\NXRemotingProject\Server\bin\Debug\Server.pdb
+J:\SystemsEng\ME578_Lab8\NXRemotingProject\Server\bin\Debug\NXOpen.dll
+J:\SystemsEng\ME578_Lab8\NXRemotingProject\Server\bin\Debug\NXOpen.UF.dll
+J:\SystemsEng\ME578_Lab8\NXRemotingProject\Server\bin\Debug\NXOpen.Utilities.dll
+J:\SystemsEng\ME578_Lab8\NXRemotingProject\Server\bin\Debug\NXOpenUI.dll
+J:\SystemsEng\ME578_Lab8\NXRemotingProject\Server\bin\Debug\NXOpen.xml
+J:\SystemsEng\ME578_Lab8\NXRemotingProject\Server\bin\Debug\NXOpen.Utilities.xml
+J:\SystemsEng\ME578_Lab8\NXRemotingProject\Server\bin\Debug\NXOpenUI.xml

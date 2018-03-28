@@ -19,3 +19,24 @@ c:\users\josh coburn\documents\visual studio 2015\Projects\NXRemotingProject\NXR
 c:\users\josh coburn\documents\visual studio 2015\Projects\NXRemotingProject\NXRemotingProject\bin\Debug\NXOpen.xml
 c:\users\josh coburn\documents\visual studio 2015\Projects\NXRemotingProject\NXRemotingProject\bin\Debug\NXOpen.Utilities.xml
 c:\users\josh coburn\documents\visual studio 2015\Projects\NXRemotingProject\NXRemotingProject\bin\Debug\NXOpenUI.xml
+J:\SystemsEng\ME578_Lab8\NXRemotingProject\NXRemotingProject\bin\Debug\NXRemotingProject.exe.config
+J:\SystemsEng\ME578_Lab8\NXRemotingProject\NXRemotingProject\obj\Debug\NXRemotingProject.exe
+J:\SystemsEng\ME578_Lab8\NXRemotingProject\NXRemotingProject\obj\Debug\NXRemotingProject.pdb
+J:\SystemsEng\ME578_Lab8\NXRemotingProject\NXRemotingProject\obj\Debug\NXRemotingProject.csprojResolveAssemblyReference.cache
+J:\SystemsEng\ME578_Lab8\NXRemotingProject\NXRemotingProject\obj\Debug\MainWindow.g.cs
+J:\SystemsEng\ME578_Lab8\NXRemotingProject\NXRemotingProject\obj\Debug\App.g.cs
+J:\SystemsEng\ME578_Lab8\NXRemotingProject\NXRemotingProject\obj\Debug\NXRemotingProject_MarkupCompile.cache
+J:\SystemsEng\ME578_Lab8\NXRemotingProject\NXRemotingProject\obj\Debug\NXRemotingProject_MarkupCompile.lref
+J:\SystemsEng\ME578_Lab8\NXRemotingProject\NXRemotingProject\bin\Debug\NXRemotingProject.exe
+J:\SystemsEng\ME578_Lab8\NXRemotingProject\NXRemotingProject\bin\Debug\NXRemotingProject.pdb
+J:\SystemsEng\ME578_Lab8\NXRemotingProject\NXRemotingProject\bin\Debug\NXOpen.dll
+J:\SystemsEng\ME578_Lab8\NXRemotingProject\NXRemotingProject\bin\Debug\NXOpen.UF.dll
+J:\SystemsEng\ME578_Lab8\NXRemotingProject\NXRemotingProject\bin\Debug\NXOpen.Utilities.dll
+J:\SystemsEng\ME578_Lab8\NXRemotingProject\NXRemotingProject\bin\Debug\NXOpenUI.dll
+J:\SystemsEng\ME578_Lab8\NXRemotingProject\NXRemotingProject\bin\Debug\NXOpen.xml
+J:\SystemsEng\ME578_Lab8\NXRemotingProject\NXRemotingProject\bin\Debug\NXOpen.Utilities.xml
+J:\SystemsEng\ME578_Lab8\NXRemotingProject\NXRemotingProject\bin\Debug\NXOpenUI.xml
+J:\SystemsEng\ME578_Lab8\NXRemotingProject\NXRemotingProject\obj\Debug\MainWindow.baml
+J:\SystemsEng\ME578_Lab8\NXRemotingProject\NXRemotingProject\obj\Debug\NXRemotingProject.g.resources
+J:\SystemsEng\ME578_Lab8\NXRemotingProject\NXRemotingProject\obj\Debug\NXRemotingProject.Properties.Resources.resources
+J:\SystemsEng\ME578_Lab8\NXRemotingProject\NXRemotingProject\obj\Debug\NXRemotingProject.csproj.GenerateResource.Cache

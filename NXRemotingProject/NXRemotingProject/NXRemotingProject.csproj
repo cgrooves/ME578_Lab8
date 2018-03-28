@@ -36,16 +36,16 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="NXOpen">
-      <HintPath>..\..\..\..\..\..\..\Program Files\Siemens\NX 9.0\UGII\managed\NXOpen.dll</HintPath>
+      <HintPath>..\..\..\Lab7\Lab7Journal\Lab7Journal\bin\Debug\NXOpen.dll</HintPath>
     </Reference>
     <Reference Include="NXOpen.UF">
-      <HintPath>..\..\..\..\..\..\..\Program Files\Siemens\NX 9.0\UGII\managed\NXOpen.UF.dll</HintPath>
+      <HintPath>..\..\..\Lab7\Lab7Journal\Lab7Journal\bin\Debug\NXOpen.UF.dll</HintPath>
     </Reference>
     <Reference Include="NXOpen.Utilities">
-      <HintPath>..\..\..\..\..\..\..\Program Files\Siemens\NX 9.0\UGII\managed\NXOpen.Utilities.dll</HintPath>
+      <HintPath>..\..\..\Lab7\Lab7Journal\Lab7Journal\bin\Debug\NXOpen.Utilities.dll</HintPath>
     </Reference>
     <Reference Include="NXOpenUI">
-      <HintPath>..\..\..\..\..\..\..\Program Files\Siemens\NX 9.0\UGII\managed\NXOpenUI.dll</HintPath>
+      <HintPath>..\..\..\Lab7\Lab7Journal\Lab7Journal\bin\Debug\NXOpenUI.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
