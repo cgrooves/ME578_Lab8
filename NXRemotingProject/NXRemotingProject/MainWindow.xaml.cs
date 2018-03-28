@@ -56,30 +56,39 @@ namespace NXRemotingProject
             for (int i = 0; i < noLines; i++)
             {
                 // Try parsing out two doubles
-                string[] words = airFoilTextLines[i].Split(' ');
-                try
-                {
-                    double x = 0;
-                    double y = 0;
+                double[] coord = { 0, 0 };
+                bool parseX = false;
+                bool parseY = false;
 
-                    bool parseX = double.TryParse(words[0], out x);
-                    bool parseY = double.TryParse(words[1], out y);
-                    
-                    if (parseX && parseY)
-                    {
-                        airFoilData.Add(new double[] { x, y });
-                    }
-                    else
-                    {
-                        System.Console.WriteLine("Line " + i + " is not a valid airfoil data point: " + airFoilTextLines[i]);
-                    }                                        
-                }
-                catch
+                string[] words = airFoilTextLines[i].Split(' ');
+
+                // Look in the line for doubles
+                for (int j = 0; j < words.GetLength(0); j++)
                 {
-                    System.Console.WriteLine("Line " + i + " is not a valid airfoil data point: " + airFoilTextLines[i]);
-                }
+                    if (!parseX)
+                    {
+                        parseX = double.TryParse(words[j], out coord[0]);
+                    }
+                    else if (!parseY)
+                    {
+                        parseY = double.TryParse(words[j], out coord[1]);
+                    }
+                }                                     
+
                 // If it fails, it's not airfoil data, discard it and move on
                 // If it succeeds, add the doubles to the airFoilData
+                if (parseX && parseY)
+                {
+                    // Debugging console message
+                    System.Console.WriteLine("Line " + (i+1) + " contains the airfoil point: " + coord[0] + ", " + coord[1]);
+                    // Write airfoil point to the airFoilData
+                    airFoilData.Add(coord);
+                }
+                else
+                {
+                    // Write out message that nothing happened
+                    System.Console.WriteLine("Line " + (i+1) + " does not contain an airfoil point.");
+                }
             }
 
 
