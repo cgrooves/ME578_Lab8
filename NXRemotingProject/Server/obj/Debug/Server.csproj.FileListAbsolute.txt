@@ -1,0 +1,24 @@
+C:\Users\Josh Coburn\Documents\Visual Studio 2015\Projects\NX RPC\Server\bin\Debug\Server.dll
+C:\Users\Josh Coburn\Documents\Visual Studio 2015\Projects\NX RPC\Server\bin\Debug\Server.pdb
+C:\Users\Josh Coburn\Documents\Visual Studio 2015\Projects\NX RPC\Server\bin\Debug\NXOpen.dll
+C:\Users\Josh Coburn\Documents\Visual Studio 2015\Projects\NX RPC\Server\bin\Debug\NXOpen.UF.dll
+C:\Users\Josh Coburn\Documents\Visual Studio 2015\Projects\NX RPC\Server\bin\Debug\NXOpen.Utilities.dll
+C:\Users\Josh Coburn\Documents\Visual Studio 2015\Projects\NX RPC\Server\bin\Debug\NXOpenUI.dll
+C:\Users\Josh Coburn\Documents\Visual Studio 2015\Projects\NX RPC\Server\bin\Debug\NXOpen.xml
+C:\Users\Josh Coburn\Documents\Visual Studio 2015\Projects\NX RPC\Server\bin\Debug\NXOpen.Utilities.xml
+C:\Users\Josh Coburn\Documents\Visual Studio 2015\Projects\NX RPC\Server\bin\Debug\NXOpenUI.xml
+C:\Users\Josh Coburn\Documents\Visual Studio 2015\Projects\NX RPC\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Josh Coburn\Documents\Visual Studio 2015\Projects\NX RPC\Server\obj\Debug\Server.dll
+C:\Users\Josh Coburn\Documents\Visual Studio 2015\Projects\NX RPC\Server\obj\Debug\Server.pdb
+C:\Users\Josh Coburn\Documents\Visual Studio 2015\Projects\NXRemotingProject\Server\bin\Debug\Server.dll
+C:\Users\Josh Coburn\Documents\Visual Studio 2015\Projects\NXRemotingProject\Server\bin\Debug\Server.pdb
+C:\Users\Josh Coburn\Documents\Visual Studio 2015\Projects\NXRemotingProject\Server\bin\Debug\NXOpen.dll
+C:\Users\Josh Coburn\Documents\Visual Studio 2015\Projects\NXRemotingProject\Server\bin\Debug\NXOpen.UF.dll
+C:\Users\Josh Coburn\Documents\Visual Studio 2015\Projects\NXRemotingProject\Server\bin\Debug\NXOpen.Utilities.dll
+C:\Users\Josh Coburn\Documents\Visual Studio 2015\Projects\NXRemotingProject\Server\bin\Debug\NXOpenUI.dll
+C:\Users\Josh Coburn\Documents\Visual Studio 2015\Projects\NXRemotingProject\Server\bin\Debug\NXOpen.xml
+C:\Users\Josh Coburn\Documents\Visual Studio 2015\Projects\NXRemotingProject\Server\bin\Debug\NXOpen.Utilities.xml
+C:\Users\Josh Coburn\Documents\Visual Studio 2015\Projects\NXRemotingProject\Server\bin\Debug\NXOpenUI.xml
+C:\Users\Josh Coburn\Documents\Visual Studio 2015\Projects\NXRemotingProject\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Josh Coburn\Documents\Visual Studio 2015\Projects\NXRemotingProject\Server\obj\Debug\Server.dll
+C:\Users\Josh Coburn\Documents\Visual Studio 2015\Projects\NXRemotingProject\Server\obj\Debug\Server.pdb
