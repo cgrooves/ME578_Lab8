@@ -49,6 +49,9 @@ namespace NXRemotingProject
                 Parser parser = new Parser(airFoilDialog.FileName);
                 airfoilData = parser.getAirfoilData();
                 parser.printAirfoilData();
+
+                // Display the filename in the text box
+                filePath.Text = airFoilDialog.FileName;
             }
         }
 
@@ -62,5 +65,7 @@ namespace NXRemotingProject
             Regex regex = new Regex("[^0-9.-]+");
             return !regex.IsMatch(text);
         }
+
+
     }
 }
