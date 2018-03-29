@@ -17,6 +17,7 @@ using System.Windows.Shapes;
 using Microsoft.Win32;
 using System.IO;
 using Dumbo;
+using System.Text.RegularExpressions;
 
 namespace NXRemotingProject
 {
@@ -51,6 +52,15 @@ namespace NXRemotingProject
             }
         }
 
+        private void limitTextInput(object sender, TextCompositionEventArgs e)
+        {
+            e.Handled = !IsTextAllowed(e.Text);
+        }
 
+        private static bool IsTextAllowed(string text)
+        {
+            Regex regex = new Regex("[^0-9.-]+");
+            return !regex.IsMatch(text);
+        }
     }
 }
