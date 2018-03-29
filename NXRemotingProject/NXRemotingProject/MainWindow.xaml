@@ -16,7 +16,7 @@
         <Label x:Name="labelScale" Content="3. Select Scale:" HorizontalAlignment="Left" Margin="10,140,0,0" VerticalAlignment="Top"/>
         <Slider x:Name="slider" HorizontalAlignment="Left" Margin="160,143,0,0" VerticalAlignment="Top" Width="275" Maximum="50" Minimum="1"/>
         <Label x:Name="goLabel" Content="4. Create NX Part:" HorizontalAlignment="Left" Margin="10,195,0,0" VerticalAlignment="Top"/>
-        <Button x:Name="goButton" Content="Go" HorizontalAlignment="Left" Margin="118,195,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="goButton" Content="Go" HorizontalAlignment="Left" Margin="118,195,0,0" VerticalAlignment="Top" Width="75" Click="createNXPart"/>
         <TextBox x:Name="scaleFactor" HorizontalAlignment="Left" Height="23" Margin="102,143,0,0" TextWrapping="Wrap" Text="{Binding ElementName=slider, Path=Value, UpdateSourceTrigger=PropertyChanged}" VerticalAlignment="Top" Width="51" PreviewTextInput="limitTextInput"/>
     </Grid>
 </Window>
