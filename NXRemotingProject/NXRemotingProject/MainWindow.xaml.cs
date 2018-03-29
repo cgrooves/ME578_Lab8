@@ -41,11 +41,13 @@ namespace NXRemotingProject
         private void selectAirfoil(object sender, RoutedEventArgs e)
         {
             OpenFileDialog airFoilDialog = new OpenFileDialog();
-            //airFoilDialog.Filter = "Airfoil data (*.dat)|*.dat|All files (*.*)|*.*";
+
             if (airFoilDialog.ShowDialog() == true)
             {
-              Parser parser = new Parser(airFoilDialog.FileName);
-              airfoilData = parser.getAirfoilData();
+                // Get airfoil data, parse it and store it
+                Parser parser = new Parser(airFoilDialog.FileName);
+                airfoilData = parser.getAirfoilData();
+                parser.printAirfoilData();
             }
         }
 
