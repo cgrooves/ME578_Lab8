@@ -40,3 +40,11 @@ J:\SystemsEng\ME578_Lab8\NXRemotingProject\NXRemotingProject\obj\Debug\MainWindo
 J:\SystemsEng\ME578_Lab8\NXRemotingProject\NXRemotingProject\obj\Debug\NXRemotingProject.g.resources
 J:\SystemsEng\ME578_Lab8\NXRemotingProject\NXRemotingProject\obj\Debug\NXRemotingProject.Properties.Resources.resources
 J:\SystemsEng\ME578_Lab8\NXRemotingProject\NXRemotingProject\obj\Debug\NXRemotingProject.csproj.GenerateResource.Cache
+J:\SystemsEng\ME578_Lab8\NXRemotingProject\NXRemotingProject\bin\Debug\mscorlib.dll
+J:\SystemsEng\ME578_Lab8\NXRemotingProject\NXRemotingProject\bin\Debug\System.Net.Http.dll
+J:\SystemsEng\ME578_Lab8\NXRemotingProject\NXRemotingProject\bin\Debug\System.Net.Http.xml
+J:\SystemsEng\ME578_Lab8\NXRemotingProject\NXRemotingProject\bin\Debug\normidna.nlp
+J:\SystemsEng\ME578_Lab8\NXRemotingProject\NXRemotingProject\bin\Debug\normnfc.nlp
+J:\SystemsEng\ME578_Lab8\NXRemotingProject\NXRemotingProject\bin\Debug\normnfd.nlp
+J:\SystemsEng\ME578_Lab8\NXRemotingProject\NXRemotingProject\bin\Debug\normnfkc.nlp
+J:\SystemsEng\ME578_Lab8\NXRemotingProject\NXRemotingProject\bin\Debug\normnfkd.nlp
