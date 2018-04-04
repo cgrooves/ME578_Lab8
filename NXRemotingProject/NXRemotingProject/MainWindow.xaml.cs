@@ -204,6 +204,8 @@ namespace NXRemotingProject
             NXOpen.Expression expression3 = extrudeBuilder1.Limits.EndExtend.Value;
             extrudeBuilder1.Destroy();
 
+            // Alter the user that the NX Part has been created
+            MessageBox.Show("NX has finished creating the part via remote session");
         }
     }
 }
